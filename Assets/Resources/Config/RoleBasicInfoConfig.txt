@@ -1,0 +1,3 @@
+Name|Model|Icon|RoleType|Wise|Power|Speed|HP|MP&
+鬼剑士|鬼剑士|鬼剑士|1|60|80|8|100|80&
+黑暗武士|黑暗武士|黑暗武士|2|80|60|8|80|100

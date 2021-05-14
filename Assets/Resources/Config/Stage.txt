@@ -1,0 +1,4 @@
+StageLv,EnemyType,KillCount,Icon,Name,StageType&
+1,1,3,格兰之森,格兰之森,1&
+2,1,3,烈焰格拉克,烈焰格拉克,1&
+3,1,3,冰雪宫殿,冰雪宫殿,1

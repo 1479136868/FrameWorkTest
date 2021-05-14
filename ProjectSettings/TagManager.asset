@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CM
+  - UIRoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3930039981
+    locked: 0
+  - name: Door
+    uniqueID: 1742118281
+    locked: 0
+  - name: Enemy
+    uniqueID: 4162954401
+    locked: 0
+  - name: Player
+    uniqueID: 214681559
+    locked: 0
+  - name: Weapon
+    uniqueID: 3894334483
+    locked: 0
+  - name: Skill
+    uniqueID: 1889596793
+    locked: 0
